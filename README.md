@@ -23,12 +23,12 @@ First of all, click on the top-right corner of this repository to fork it.
 ### Create a local clone of your fork
 Then, clone your forked repository using this command:
 ```
-git clone https://github.com/YOUR-USERNAME/csoc-2021-task-3-reactjs.git
+git clone https://github.com/YOUR-USERNAME/csoc_task3_dup.git
 ```
 
 Change your current directory to the repo's root.
 ```
-cd csoc-2021-task-3-reactjs
+cd csoc_task3_dup
 ```
 
 ### Run the server
